@@ -1,3 +1,4 @@
+# wget https://get.helm.sh/helm-v3.8.2-linux-amd64.tar.gz
 # Blue Green Deployment NodejsApp
 
 # Pre-requisites:
